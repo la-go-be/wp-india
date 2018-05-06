@@ -1,0 +1,43 @@
+// Transition
+@mixin transit {
+    @include transition(all 0.5s);
+}
+
+@mixin transition($args...) {
+    -webkit-transition: $args;
+    -moz-transition: $args;
+    -ms-transition: $args;
+    -o-transition: $args;
+    transition: $args;
+}
+
+// Transform
+@mixin transform($val) {
+    -webkit-transform: $val;
+    -moz-transform: $val;
+    -ms-transform: $val;
+    transform: $val;
+}
+
+// Border radius
+@mixin border-radius($val) {
+    border-radius: $val;
+    -moz-border-radius: $val;
+    -webkit-border-radius: $val;
+}
+
+// Box shadow
+@mixin box-shadow($val) {
+    -moz-box-shadow: $val;
+    -webkit-box-shadow: $val;
+    box-shadow: $val;
+}
+
+// Spin
+@mixin spin($val) {
+    -webkit-animation: spinner $val linear infinite;
+    -moz-animation: spinner $val linear infinite;
+    -ms-animation: spinner $val linear infinite;
+    -o-animation: spinner $val linear infinite;
+    animation: spinner $val linear infinite;
+}

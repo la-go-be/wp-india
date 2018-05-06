@@ -1,0 +1,42 @@
+/* Dashboard Widget */
+
+#wpclever_dashboard_widget .inside {
+    padding: 0 12px;
+    margin: 0;
+}
+
+#wpclever_dashboard_widget .item {
+    border-bottom: 1px solid #eee;
+    margin: 0 -12px;
+    padding: 10px 12px;
+    display: inline-block;
+    width: 100%;
+}
+
+#wpclever_dashboard_widget .item:hover {
+    background-color: #fafafa;
+}
+
+#wpclever_dashboard_widget .item:last-child {
+    border-bottom: none;
+}
+
+#wpclever_dashboard_widget .item a {
+    display: inline-block;
+    width: 100%;
+    color: #23282d;
+    outline: none;
+    box-shadow: none;
+}
+
+#wpclever_dashboard_widget .item img {
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 2px;
+}
+
+#wpclever_dashboard_widget .item .info {
+    opacity: .5;
+}

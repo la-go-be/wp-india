@@ -1,0 +1,12 @@
+<wpml-config>
+    <admin-texts>
+        <key name="yith_wcms_timeline_options_login"/>
+        <key name="yith_wcms_timeline_options_billing"/>
+        <key name="yith_wcms_timeline_options_shipping"/>
+        <key name="yith_wcms_timeline_options_order"/>
+        <key name="yith_wcms_timeline_options_payment"/>
+        <key name="yith_wcms_timeline_options_next"/>
+        <key name="yith_wcms_timeline_options_prev"/>
+        <key name="yith_wcms_timeline_options_skip_login"/>
+    </admin-texts>
+</wpml-config>

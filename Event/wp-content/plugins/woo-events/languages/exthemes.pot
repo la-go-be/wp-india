@@ -1,0 +1,1905 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooEvents\n"
+"POT-Creation-Date: 2016-07-04 17:47+0700\n"
+"PO-Revision-Date: 2016-07-04 17:48+0700\n"
+"Last-Translator: \n"
+"Language-Team: Exthemes\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woo-event.php:27
+msgid ""
+"WooCommerce is Required to WooEvents plugin work, please install or activate "
+"WooCommerce plugin"
+msgstr ""
+
+#: css/custom.css.php:170
+msgid "Product"
+msgstr ""
+
+#: css/custom.css.php:174 inc/admin/class-plugin-settings.php:902
+#: shortcode/event-table.php:31
+msgid "Price"
+msgstr ""
+
+#: css/custom.css.php:178
+msgid "Quantity"
+msgstr ""
+
+#: css/custom.css.php:182
+msgid "Subtotal"
+msgstr ""
+
+#: css/custom.css.php:186
+msgid "Total"
+msgstr ""
+
+#: inc/class-email-reminder.php:149 inc/class-email-reminder.php:160
+msgid "Email Reminder from "
+msgstr ""
+
+#: inc/class-email-reminder.php:189
+msgid "This is an automatic reminder of the following event"
+msgstr ""
+
+#: inc/class-email-reminder.php:191 inc/admin/class-plugin-settings.php:926
+#: shortcode/count-down.php:121 shortcode/event-carousel.php:127
+#: shortcode/event-grid.php:192 shortcode/event-table.php:179
+#: shortcode/map.php:287
+msgid "Date"
+msgstr ""
+
+#: inc/class-email-reminder.php:192
+msgid "Additional information"
+msgstr ""
+
+#: inc/class-email-reminder.php:193
+msgid "This is a reminder that you had registered for \""
+msgstr ""
+
+#: inc/class-email-reminder.php:193
+msgid "We look forward to seeing you"
+msgstr ""
+
+#: inc/class-meta-event-only.php:22 inc/class-woo-event.php:116
+#: inc/admin/class-plugin-settings.php:622 shortcode/event-table.php:28
+msgid "Details"
+msgstr ""
+
+#: inc/class-meta-event-only.php:24 inc/class-woo-event.php:118
+#: inc/admin/class-plugin-settings.php:630
+msgid "Event Details"
+msgstr ""
+
+#: inc/class-meta-event-only.php:35 inc/class-woo-event.php:75
+#: inc/functions.php:600 inc/admin/class-plugin-settings.php:606
+msgid "This event has passed"
+msgstr ""
+
+#: inc/class-meta-event-only.php:48 inc/class-woo-event.php:103
+#: inc/admin/class-plugin-settings.php:614
+msgid "Add To Cart"
+msgstr ""
+
+#: inc/class-meta-event-only.php:53 inc/class-woo-event.php:108
+#: inc/admin/class-plugin-settings.php:582
+msgid "Join this Event"
+msgstr ""
+
+#: inc/class-meta-event-only.php:65 inc/class-woo-event.php:194
+#: inc/admin/class-plugin-settings.php:646
+#: templates/content-event-schedu.php:10
+msgid "+ Ical Import"
+msgstr ""
+
+#: inc/class-meta-event-only.php:66 inc/class-woo-event.php:195
+#: inc/admin/class-plugin-settings.php:654
+#: templates/content-event-schedu.php:11
+msgid "+ Google calendar"
+msgstr ""
+
+#: inc/class-meta-event-only.php:103 inc/class-woo-event.php:373
+#: inc/admin/class-event-meta.php:304 inc/admin/class-plugin-settings.php:670
+#: inc/admin/functions.php:415 shortcode/event-table.php:25
+#: templates/content-email-event-details.php:24
+msgid "Start Date"
+msgstr ""
+
+#: inc/class-meta-event-only.php:104 inc/class-woo-event.php:374
+#: inc/admin/class-event-meta.php:308 inc/admin/class-plugin-settings.php:678
+#: inc/admin/functions.php:416 templates/content-email-event-details.php:25
+msgid "End Date"
+msgstr ""
+
+#: inc/class-meta-event-only.php:105 inc/class-woo-event.php:375
+#: templates/content-event-meta.php:72
+msgid "(All day)"
+msgstr ""
+
+#: inc/class-woo-event.php:80 inc/admin/class-plugin-settings.php:1079
+msgid "You already signed up this event"
+msgstr ""
+
+#: inc/class-woo-event.php:92 inc/admin/class-plugin-settings.php:598
+msgid "Related Events"
+msgstr ""
+
+#: inc/class-woo-event.php:137
+msgid "WooEvent"
+msgstr ""
+
+#: inc/class-woo-event.php:139
+msgid "Sidebar for all pages of WooEvents."
+msgstr ""
+
+#: inc/class-woo-event.php:161 inc/admin/class-event-meta.php:241
+#: inc/admin/class-event-meta.php:242 inc/admin/class-event-meta.php:266
+#: inc/admin/class-plugin-settings.php:560 shortcode/event-grid.php:111
+#: shortcode/event-table.php:114
+msgid "Default"
+msgstr ""
+
+#: inc/class-woo-event.php:162 inc/class-woo-event.php:169
+#: widgets/latest-events.php:131
+msgid "Upcoming Events"
+msgstr ""
+
+#: inc/class-woo-event.php:163 inc/class-woo-event.php:170
+msgid "Ongoing Events"
+msgstr ""
+
+#: inc/class-woo-event.php:164 inc/class-woo-event.php:171
+#: widgets/latest-events.php:132
+msgid "Past Events"
+msgstr ""
+
+#: inc/class-woo-event.php:182 inc/admin/class-plugin-settings.php:638
+#: shortcode/content/content-table.php:82
+msgid "View Details"
+msgstr ""
+
+#: inc/class-woo-event.php:320 inc/functions.php:725 shortcode/map.php:191
+#: shortcode/content/content-carousel.php:9
+#: shortcode/content/content-grid.php:10
+#: shortcode/content/content-table.php:11 templates/content-layout-2.php:22
+#: widgets/latest-events.php:45
+msgid "From  "
+msgstr ""
+
+#: inc/class-woo-event.php:416 inc/admin/class-plugin-settings.php:694
+msgid "Previous"
+msgstr ""
+
+#: inc/class-woo-event.php:419 inc/admin/class-plugin-settings.php:702
+msgid "Previous Event"
+msgstr ""
+
+#: inc/class-woo-event.php:425 inc/admin/class-plugin-settings.php:710
+msgid "Next"
+msgstr ""
+
+#: inc/class-woo-event.php:428 inc/admin/class-plugin-settings.php:718
+msgid "Next Event"
+msgstr ""
+
+#: inc/functions.php:83
+msgid "View all posts in "
+msgstr ""
+
+#: inc/functions.php:314 inc/functions.php:352
+#: inc/admin/class-plugin-settings.php:726 widgets/events-search.php:50
+msgid "Search"
+msgstr ""
+
+#: inc/functions.php:321 inc/admin/class-plugin-settings.php:1071
+msgid "Filter"
+msgstr ""
+
+#: inc/functions.php:339 inc/functions.php:341
+#: inc/admin/class-plugin-settings.php:734 shortcode/map.php:355
+#: widgets/events-search.php:38 widgets/events-search.php:40
+msgid "All"
+msgstr ""
+
+#: inc/functions.php:376 inc/admin/class-plugin-settings.php:742
+msgid "View as"
+msgstr ""
+
+#: inc/functions.php:383 inc/functions.php:411
+#: inc/admin/class-plugin-settings.php:766 shortcode/count-down.php:135
+#: shortcode/event-carousel.php:141 shortcode/event-grid.php:206
+#: shortcode/event-table.php:193 shortcode/map.php:358
+msgid "Day"
+msgstr ""
+
+#: inc/functions.php:385 inc/functions.php:408
+#: inc/admin/class-plugin-settings.php:758 shortcode/count-down.php:136
+#: shortcode/event-carousel.php:142 shortcode/event-grid.php:207
+#: shortcode/event-table.php:194 shortcode/map.php:359
+msgid "Week"
+msgstr ""
+
+#: inc/functions.php:387 inc/functions.php:402
+#: inc/admin/class-plugin-settings.php:232
+#: inc/admin/class-plugin-settings.php:432
+#: inc/admin/class-plugin-settings.php:774
+msgid "Map"
+msgstr ""
+
+#: inc/functions.php:389 inc/functions.php:399
+#: inc/admin/class-plugin-settings.php:231
+#: inc/admin/class-plugin-settings.php:782
+msgid "List"
+msgstr ""
+
+#: inc/functions.php:391 inc/functions.php:405
+#: inc/admin/class-plugin-settings.php:750 shortcode/calendar.php:74
+#: shortcode/count-down.php:137 shortcode/event-carousel.php:143
+#: shortcode/event-grid.php:208 shortcode/event-table.php:195
+#: shortcode/map.php:360
+msgid "Month"
+msgstr ""
+
+#: inc/functions.php:393 inc/admin/class-plugin-settings.php:790
+msgid "Select"
+msgstr ""
+
+#: inc/functions.php:461 inc/admin/class-plugin-settings.php:1047
+#: shortcode/calendar.php:93 shortcode/count-down.php:89
+#: shortcode/event-carousel.php:95 shortcode/event-grid.php:160
+#: shortcode/event-table.php:147 shortcode/map.php:408
+msgid "Category"
+msgstr ""
+
+#: inc/functions.php:488 inc/admin/class-plugin-settings.php:1055
+#: shortcode/count-down.php:97 shortcode/event-carousel.php:103
+#: shortcode/event-grid.php:168 shortcode/event-table.php:155
+#: shortcode/map.php:416
+msgid "Tags"
+msgstr ""
+
+#: inc/functions.php:509 inc/admin/class-plugin-settings.php:1063
+msgid "Years"
+msgstr ""
+
+#: inc/functions.php:603 inc/admin/class-plugin-settings.php:798
+msgid "Unlimited tickets"
+msgstr ""
+
+#: inc/functions.php:605 inc/admin/class-plugin-settings.php:806
+msgid "Unlimited pieces"
+msgstr ""
+
+#: inc/functions.php:608
+msgid " Qty Available"
+msgstr ""
+
+#: inc/functions.php:611
+msgid " Pieces Available"
+msgstr ""
+
+#: inc/functions.php:617 inc/admin/class-plugin-settings.php:830
+msgid "There are no ticket available at this time."
+msgstr ""
+
+#: inc/functions.php:619 inc/admin/class-plugin-settings.php:838
+msgid "There are no pieces available at this time."
+msgstr ""
+
+#: inc/functions.php:771
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/functions.php:778
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/functions.php:785
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: inc/functions.php:792
+msgid "Share on Tumblr"
+msgstr ""
+
+#: inc/functions.php:799
+msgid "Share on Google Plus"
+msgstr ""
+
+#: inc/functions.php:806
+msgid "Pin this"
+msgstr ""
+
+#: inc/functions.php:813
+msgid "Share on VK"
+msgstr ""
+
+#: inc/functions.php:820
+msgid "Email this"
+msgstr ""
+
+#: inc/functions.php:874
+#, php-format
+msgid "%s Submit event: %s"
+msgstr ""
+
+#: inc/functions.php:896
+msgid "H:i"
+msgstr ""
+
+#: inc/functions.php:1006
+msgid "Your order Barcode:"
+msgstr ""
+
+#: inc/functions.php:1240 inc/admin/class-plugin-settings.php:846
+msgid ""
+"Nothing matched your search terms. Please try again with some different "
+"keywords."
+msgstr ""
+
+#: inc/admin/class-event-meta.php:218
+msgid "All Day"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:219
+msgid "Start Date:"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:220
+msgid "End Date:"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:221
+msgid "Recurrence"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:221
+msgid "Every Day"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:221
+msgid "Every Week"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:221
+msgid "Every Month"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:222
+msgid "End Date of Recurrence:"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:223 inc/admin/class-event-meta.php:322
+msgid "Speakers"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:223
+msgid "Choose speaker for this event"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:227 inc/admin/class-event-meta.php:335
+#: inc/admin/class-plugin-settings.php:958 templates/content-event-meta.php:87
+#: templates/content-shop-meta.php:80
+msgid "Address"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:227 inc/admin/class-event-meta.php:338
+msgid "Location Address of event"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:228
+msgid "Latitude and Longitude (optional)"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:228
+msgid ""
+"Physical address of your event location, if Event map shortcode cannot load "
+"your address, you need to fill Latitude and Longitude to fix it, you can "
+"find phisical address here: https://ctrlq.org/maps/address/. Enter Latitude "
+"and Longitude, separated by a comma. Ex for London: 42.9869502,-81.243177"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:230 inc/admin/class-event-meta.php:344
+#: inc/admin/class-plugin-settings.php:974
+#: templates/content-event-meta.php:101
+msgid "Phone"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:230 inc/admin/class-event-meta.php:347
+msgid "Contact Number of event"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:231 inc/admin/class-event-meta.php:353
+#: inc/admin/class-plugin-settings.php:982
+#: templates/content-event-meta.php:117 templates/content-shop-meta.php:110
+msgid "Email"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:231 inc/admin/class-event-meta.php:356
+msgid "Email Contact of event"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:232 inc/admin/class-event-meta.php:362
+#: inc/admin/class-plugin-settings.php:990
+#: templates/content-event-meta.php:130 templates/content-shop-meta.php:123
+msgid "Website"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:232 inc/admin/class-event-meta.php:365
+msgid "Website URL of event"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:234 inc/admin/class-plugin-settings.php:1006
+#: templates/content-event-schedu.php:33
+msgid "Schedule"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:234
+msgid "Add Schedule for this event"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:235 inc/admin/class-plugin-settings.php:280
+msgid "Map Icon"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:236
+msgid "Color"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:241 inc/admin/class-plugin-settings.php:312
+msgid "Layout"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:241 inc/admin/class-plugin-settings.php:316
+msgid "Layout 1"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:241 inc/admin/class-plugin-settings.php:317
+msgid "Layout 2"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:241 inc/admin/class-plugin-settings.php:318
+msgid "Layout 3"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:241 inc/admin/class-event-meta.php:242
+msgid "Select \"Default\" to use settings in Event Options"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:242 inc/admin/class-plugin-settings.php:145
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:242 inc/admin/class-plugin-settings.php:149
+msgid "Right"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:242 inc/admin/class-plugin-settings.php:150
+msgid "Left"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:242
+msgid "Hidden"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:245 inc/admin/class-event-meta.php:266
+#: inc/admin/class-plugin-settings.php:1102
+msgid "WooCommere"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:245 inc/admin/class-event-meta.php:266
+#: inc/admin/class-plugin-settings.php:1103
+msgid "Event"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:245
+msgid "Select Layout Purpose for this product"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:251 inc/admin/class-event-meta.php:290
+msgid "Event Settings"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:257
+msgid "Location Settings"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:266
+msgid "Select Default to use setting in plugin setting"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:270
+msgid "Layout Purpose"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:278
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:298
+msgid "Event Info"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:325
+msgid "Enter ID from Speakers"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:331 inc/admin/class-plugin-settings.php:1038
+#: templates/content-email-event-details.php:9
+msgid "Event Location"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:371
+msgid "Subscribe URL"
+msgstr ""
+
+#: inc/admin/class-event-meta.php:374
+msgid "Link to a subscribe form. Only work if no price is set."
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:37
+#: inc/admin/class-plugin-settings.php:61
+#: inc/admin/class-plugin-settings.php:1288
+msgid "WooEvents Settings"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:37 shortcode/calendar.php:65
+#: shortcode/count-down.php:68 shortcode/event-carousel.php:66
+#: shortcode/event-grid.php:102 shortcode/event-table.php:105
+#: shortcode/map.php:346
+msgid "WooEvents"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:71
+msgid "General"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:76
+msgid "Main Purpose"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:77
+msgid ""
+"Select \"Custom\" to use main layout as woocommerce but you can choose "
+"product as event in each product, Select \"Only use metadata\" to use your "
+"theme style and you can choose product as event in each product"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:80
+msgid "Events"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:81
+msgid "Styling for WooCommerce"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:82
+msgid "Custom"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:83
+msgid "Only use metadata"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:89
+msgid "Main color"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:90
+msgid "Choose main color of WooEvents"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:97
+msgid "Main Font Family"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:98
+msgid ""
+"Enter Google font-family name here. For example, if you choose \"Source Sans "
+"Pro\" Google Font, enter Source Sans Pro"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:105
+msgid "Main Font Size"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:106
+msgid "Enter size of font, Ex: 13px"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:113
+msgid "Heading Font Family"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:114
+msgid ""
+"Enter Google font-family name here. For example, if you choose \"Source Sans "
+"Pro\" Google Font, enter Ubuntu"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:121
+msgid "Heading Font Size"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:122
+msgid "Enter size of font, Ex: 20px"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:129
+msgid "Meta Font Family"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:130
+msgid ""
+"Enter Google font-family name here. For example, if you choose \"Ubuntu\" "
+"Google Font, enter Ubuntu"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:137
+msgid "Meta Font Size"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:138
+msgid "Enter size of font, Ex: 12px"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:146
+msgid "Select hide to use sidebar of theme"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:151
+#: inc/admin/class-plugin-settings.php:329
+#: inc/admin/class-plugin-settings.php:340
+#: inc/admin/class-plugin-settings.php:359
+#: inc/admin/class-plugin-settings.php:1114
+msgid "Hide"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:157
+msgid "Calendar Language"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:158
+msgid "Select language of Calendar"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:161
+msgid "en"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:162
+msgid "ar-ma"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:163
+msgid "ar-sa"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:164
+msgid "ar-tn"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:165
+msgid "ar"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:166
+msgid "bg"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:167
+msgid "ca"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:168
+msgid "cs"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:169
+msgid "da"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:170
+msgid "de-at"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:171
+msgid "de"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:172
+msgid "el"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:173
+msgid "en-au"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:174
+msgid "en-ca"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:175
+msgid "en-gb"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:176
+msgid "en-ie"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:177
+msgid "en-nz"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:178
+msgid "es"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:179
+msgid "fa"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:180
+msgid "fi"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:181
+msgid "fr-ca"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:182
+msgid "fr-ch"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:183
+msgid "fr"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:184
+msgid "he"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:185
+msgid "hi"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:186
+msgid "hr"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:187
+msgid "hu"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:188
+msgid "id"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:189
+msgid "is"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:190
+msgid "it"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:191
+msgid "ja"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:192
+msgid "ko"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:193
+msgid "lt"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:194
+msgid "lv"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:195
+msgid "nb"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:196
+msgid "nl"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:197
+msgid "pl"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:198
+msgid "pt-br"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:199
+msgid "pt"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:200
+msgid "ro"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:201
+msgid "ru"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:202
+msgid "sk"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:203
+msgid "sl"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:204
+msgid "sr-cyrl"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:205
+msgid "sr"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:206
+msgid "sv"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:207
+msgid "th"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:208
+msgid "tr"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:209
+msgid "uk"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:210
+msgid "vi"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:211
+msgid "zh-cn"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:212
+msgid "zh-tw"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:218
+msgid "Speaker Slug"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:219
+msgid "Remember to save the permalink settings again in Settings > Permalinks"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:226
+msgid "Listing default view"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:230
+msgid "Calendar Month"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:233 shortcode/calendar.php:76
+msgid "Agenda Week"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:234
+msgid "Agenda Day"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:240
+msgid "Listing default order"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:244 shortcode/count-down.php:134
+#: shortcode/event-carousel.php:139 shortcode/event-grid.php:204
+#: shortcode/event-table.php:191 shortcode/map.php:356
+msgid "Upcoming"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:245
+msgid "Default order"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:246
+msgid "Default order bar of Woocommerce"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:252
+msgid "Enable redirect to Checkout page"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:253
+msgid "Redirect to the Checkout page after successful addition"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:256
+#: inc/admin/class-plugin-settings.php:267
+#: inc/admin/class-plugin-settings.php:391
+#: inc/admin/class-plugin-settings.php:402
+#: inc/admin/class-plugin-settings.php:499
+#: inc/admin/class-plugin-settings.php:562 shortcode/event-carousel.php:156
+msgid "Off"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:257
+#: inc/admin/class-plugin-settings.php:268
+#: inc/admin/class-plugin-settings.php:392
+#: inc/admin/class-plugin-settings.php:403
+#: inc/admin/class-plugin-settings.php:498 shortcode/event-carousel.php:157
+msgid "On"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:263
+msgid "Auto change color when low stock"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:264
+msgid ""
+"This feature allow user can see product has color Red when out of stock or "
+"Yellow when the seats are between the limit and 0 in listing page"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:275
+msgid "Map Settings"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:281
+msgid "Select icon default of Map"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:288
+msgid "Map Zoom"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:289
+msgid "Enter number, default: 1"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:296
+msgid "Paste custom code style of map"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:297
+msgid ""
+"Choose custom code style of map here: https://snazzymaps.com/explore?"
+"sort=popular"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:307
+#: inc/admin/class-plugin-settings.php:1093
+msgid "Single event"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:313
+#: inc/admin/class-plugin-settings.php:1099
+msgid "Select default layout of single event"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:324
+#: inc/admin/class-plugin-settings.php:1109
+msgid "Show Social Share"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:325
+#: inc/admin/class-plugin-settings.php:1110
+msgid "Show/hide Social Share section"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:328
+#: inc/admin/class-plugin-settings.php:339
+#: inc/admin/class-plugin-settings.php:358
+#: inc/admin/class-plugin-settings.php:1113
+msgid "Show"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:335
+msgid "Show related"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:336
+msgid "Show/hide Related Event section"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:346
+msgid "Number of related"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:347
+msgid "Enter number, default 3"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:354
+msgid "Show Event Navigation"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:355
+msgid "Show/hide Event Navigation section"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:365
+#: inc/admin/class-plugin-settings.php:1120
+msgid "Default Map Style"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:369
+#: inc/admin/class-plugin-settings.php:380
+#: inc/admin/class-plugin-settings.php:442
+#: inc/admin/class-plugin-settings.php:1124
+msgid "No"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:370
+#: inc/admin/class-plugin-settings.php:381
+#: inc/admin/class-plugin-settings.php:443
+#: inc/admin/class-plugin-settings.php:1125
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:376
+msgid "Remove click on button"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:377
+msgid ""
+"Remove click event on qty button when your theme has already added this event"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:387
+msgid "Enable Review for Event"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:398
+msgid "User already Signed up info"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:399
+msgid "Enable show info if user  has signed up event"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:411
+msgid "Search bar"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:416
+msgid "Enable search bar"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:420
+msgid "Enable"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:421
+msgid "Disable"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:427
+msgid "Show search result in"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:431
+msgid "Listing"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:438
+msgid "Ajax search"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:439
+msgid "Only work with Listing result"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:449
+msgid "Category include"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:450
+msgid ""
+"List of cat ID (or slug), separated by a comma, leave blank to show all "
+"category in dropdown"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:457
+msgid "Tags include"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:458
+msgid ""
+"List of Tag ID (or slug), separated by a comma, leave blank to show all Tags "
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:465
+msgid "Event Years filter include"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:466
+msgid ""
+"List of year, separated by a comma, ex:2016,2017. Leave blank to show 5 year "
+"nearest"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:475
+msgid "Custom css"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:480
+msgid "Paste your CSS code"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:481
+msgid "Add custom CSS code to the plugin without modifying files"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:489
+#: inc/admin/class-plugin-settings.php:494
+msgid "Email reminder"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:495
+msgid "Select off to disable this feature"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:505
+msgid "Time for sending the email notification before Event start"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:509 shortcode/map.php:379
+msgid "Enter number"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:513 shortcode/map.php:352
+msgid "Type"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:518
+msgid "seconds"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:519
+msgid "minutes"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:520 shortcode/count-down.php:20
+msgid "hours"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:521 shortcode/count-down.php:19
+msgid "days"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:522
+msgid "weeks"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:523
+msgid "months"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:530
+msgid "Js & Css file"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:535
+msgid "Turn off Font Awesome"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:536
+msgid ""
+"Turn off loading plugin's Font Awesome. Check if your theme has already "
+"loaded this library"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:542
+msgid "Turn off Bootstrap Css file"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:543
+msgid ""
+"Turn off loading plugin's Bootstrap library. Check if your theme has already "
+"loaded this library"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:549
+msgid "Turn off Google Map Api Js file"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:550
+msgid ""
+"Turn off loading plugin's Google Map Api Js file. Check if your theme has "
+"already loaded this library"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:556
+msgid "Plugin Style"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:557
+msgid "Select Off to disable load plugin style"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:569
+msgid "Front end Static Text"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:574
+#: inc/admin/class-plugin-settings.php:1014
+#: inc/speaker/class-speaker-post-type.php:11
+#: inc/speaker/class-speaker-post-type.php:12
+#: inc/speaker/class-speaker-post-type.php:23
+#: templates/content-event-meta.php:22 templates/content-shop-meta.php:17
+msgid "Speaker"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:575
+#: inc/admin/class-plugin-settings.php:583
+#: inc/admin/class-plugin-settings.php:591
+#: inc/admin/class-plugin-settings.php:599
+#: inc/admin/class-plugin-settings.php:607
+#: inc/admin/class-plugin-settings.php:615
+#: inc/admin/class-plugin-settings.php:623
+#: inc/admin/class-plugin-settings.php:631
+#: inc/admin/class-plugin-settings.php:639
+#: inc/admin/class-plugin-settings.php:647
+#: inc/admin/class-plugin-settings.php:655
+#: inc/admin/class-plugin-settings.php:663
+#: inc/admin/class-plugin-settings.php:671
+#: inc/admin/class-plugin-settings.php:679
+#: inc/admin/class-plugin-settings.php:687
+#: inc/admin/class-plugin-settings.php:695
+#: inc/admin/class-plugin-settings.php:703
+#: inc/admin/class-plugin-settings.php:711
+#: inc/admin/class-plugin-settings.php:719
+#: inc/admin/class-plugin-settings.php:727
+#: inc/admin/class-plugin-settings.php:735
+#: inc/admin/class-plugin-settings.php:743
+#: inc/admin/class-plugin-settings.php:751
+#: inc/admin/class-plugin-settings.php:759
+#: inc/admin/class-plugin-settings.php:767
+#: inc/admin/class-plugin-settings.php:775
+#: inc/admin/class-plugin-settings.php:783
+#: inc/admin/class-plugin-settings.php:791
+#: inc/admin/class-plugin-settings.php:799
+#: inc/admin/class-plugin-settings.php:807
+#: inc/admin/class-plugin-settings.php:815
+#: inc/admin/class-plugin-settings.php:823
+#: inc/admin/class-plugin-settings.php:831
+#: inc/admin/class-plugin-settings.php:839
+#: inc/admin/class-plugin-settings.php:847
+#: inc/admin/class-plugin-settings.php:855
+#: inc/admin/class-plugin-settings.php:863
+#: inc/admin/class-plugin-settings.php:871
+#: inc/admin/class-plugin-settings.php:879
+#: inc/admin/class-plugin-settings.php:887
+#: inc/admin/class-plugin-settings.php:895
+#: inc/admin/class-plugin-settings.php:903
+#: inc/admin/class-plugin-settings.php:911
+#: inc/admin/class-plugin-settings.php:919
+#: inc/admin/class-plugin-settings.php:927
+#: inc/admin/class-plugin-settings.php:935
+#: inc/admin/class-plugin-settings.php:943
+#: inc/admin/class-plugin-settings.php:951
+#: inc/admin/class-plugin-settings.php:959
+#: inc/admin/class-plugin-settings.php:967
+#: inc/admin/class-plugin-settings.php:975
+#: inc/admin/class-plugin-settings.php:983
+#: inc/admin/class-plugin-settings.php:991
+#: inc/admin/class-plugin-settings.php:999
+#: inc/admin/class-plugin-settings.php:1007
+#: inc/admin/class-plugin-settings.php:1015
+#: inc/admin/class-plugin-settings.php:1023
+#: inc/admin/class-plugin-settings.php:1031
+#: inc/admin/class-plugin-settings.php:1039
+#: inc/admin/class-plugin-settings.php:1048
+#: inc/admin/class-plugin-settings.php:1056
+#: inc/admin/class-plugin-settings.php:1064
+#: inc/admin/class-plugin-settings.php:1072
+#: inc/admin/class-plugin-settings.php:1080
+msgid "Add your text to replace this static text"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:590 templates/content-layout-2.php:35
+msgid "Join Now"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:662
+msgid "From"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:686
+msgid "All day"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:814
+msgid "Qty Available"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:822
+msgid "Pieces Available"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:854 shortcode/calendar.php:23
+#: shortcode/count-down.php:49 shortcode/event-grid.php:83
+#: shortcode/map.php:328
+msgid "No Events Found"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:862
+msgid "Hours"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:870 shortcode/count-down.php:21
+msgid "min"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:878 shortcode/count-down.php:22
+msgid "sec"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:886 shortcode/event-grid.php:64
+#: shortcode/event-table.php:70
+msgid "Load more"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:894 shortcode/count-down.php:125
+#: shortcode/event-carousel.php:131 shortcode/event-grid.php:196
+#: shortcode/event-table.php:27 shortcode/event-table.php:183
+msgid "Name"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:910 shortcode/event-table.php:32
+#: templates/content-event-schedu.php:17
+msgid "Status"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:918 shortcode/event-table.php:30
+#: shortcode/map.php:288 shortcode/map.php:298
+msgid "Location"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:934
+msgid "BUY TICKET -"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:942 templates/content-event-meta.php:49
+#: templates/content-shop-meta.php:43
+msgid "Start"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:950 templates/content-event-meta.php:65
+#: templates/content-shop-meta.php:59
+msgid "End"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:966
+msgid "View Map"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:998
+msgid "Has sold"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:1022
+#: inc/admin/class-plugin-settings.php:1030
+#: templates/content-email-event-details.php:7
+msgid "Event Name"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:1098
+msgid "Default Layout Purpose"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:1246
+msgid "Upload an image"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:1246
+msgid "Use image"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:1246
+msgid "Upload new image"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:1247
+msgid "Remove image"
+msgstr ""
+
+#: inc/admin/class-plugin-settings.php:1304
+msgid "Save Settings"
+msgstr ""
+
+#: inc/admin/functions.php:347
+msgid "Edit all"
+msgstr ""
+
+#: inc/admin/functions.php:348
+msgid "Edit single"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/class.cmb-meta-box.php:84
+msgid "Are you sure you want to delete this field?"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:68
+msgid "Add New"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:69
+msgid "Remove Field"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:464
+msgid "Add File"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:482
+#: inc/admin/Meta-Boxes/classes.fields.php:556
+msgid "Remove"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:544
+msgid "Add Image"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:1094 shortcode/count-down.php:139
+#: shortcode/event-carousel.php:145 shortcode/event-grid.php:210
+#: shortcode/event-table.php:197
+msgid "None"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:1124
+msgid "Type to search"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:1453
+msgid "Add New Group"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:1454
+msgid "Remove Group"
+msgstr ""
+
+#: inc/admin/Meta-Boxes/classes.fields.php:1653
+msgid "Drag to set the exact location"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:13
+#: inc/speaker/class-speaker-post-type.php:14
+msgid "Add New Speaker"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:15
+msgid "Edit Speaker"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:16
+msgid "New Speaker"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:17
+msgid "All Speakers"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:18
+msgid "View Speaker"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:19
+msgid "Search Speaker"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:20
+msgid "No Speaker found"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:21
+msgid "No Speaker found in Trash"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:55
+msgid "Position:"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:55
+msgid "Position of speaker"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:56
+msgid "Facebook:"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:56
+#: inc/speaker/class-speaker-post-type.php:57
+#: inc/speaker/class-speaker-post-type.php:59
+#: inc/speaker/class-speaker-post-type.php:60
+#: inc/speaker/class-speaker-post-type.php:61
+#: inc/speaker/class-speaker-post-type.php:62
+#: inc/speaker/class-speaker-post-type.php:63
+#: inc/speaker/class-speaker-post-type.php:64
+#: inc/speaker/class-speaker-post-type.php:65
+#: inc/speaker/class-speaker-post-type.php:66
+#: inc/speaker/class-speaker-post-type.php:67
+msgid "Enter link to speaker profile page"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:57
+msgid "Instagram:"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:58
+msgid "Email:"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:58
+msgid "Enter email contact of speaker"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:59
+msgid "Twitter:"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:60
+msgid "LinkedIn:"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:61
+msgid "Tumblr:"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:62
+msgid "Google Plus:"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:63
+msgid "Pinterest:"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:64
+msgid "YouTube:"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:65
+msgid "Flickr:"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:66
+msgid "GitHub:"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:67
+msgid "Dribbble:"
+msgstr ""
+
+#: inc/speaker/class-speaker-post-type.php:71
+msgid "Speaker Info"
+msgstr ""
+
+#: shortcode/calendar.php:60
+msgid "WooEvents - Calendar"
+msgstr ""
+
+#: shortcode/calendar.php:71
+msgid "View"
+msgstr ""
+
+#: shortcode/calendar.php:75
+msgid "Basic Week"
+msgstr ""
+
+#: shortcode/calendar.php:77
+msgid "Basic Day"
+msgstr ""
+
+#: shortcode/calendar.php:78
+msgid "Agenda Day "
+msgstr ""
+
+#: shortcode/calendar.php:85
+msgid "Default date"
+msgstr ""
+
+#: shortcode/calendar.php:88
+msgid "The initial date displayed when the calendar first loads. Ex:2016-05-19"
+msgstr ""
+
+#: shortcode/calendar.php:96 shortcode/count-down.php:92
+#: shortcode/event-carousel.php:98 shortcode/event-grid.php:163
+#: shortcode/event-table.php:150 shortcode/map.php:411
+msgid "List of cat ID (or slug), separated by a comma"
+msgstr ""
+
+#: shortcode/count-down.php:63
+msgid "WooEvents - CountDown"
+msgstr ""
+
+#: shortcode/count-down.php:73 shortcode/event-carousel.php:71
+#: shortcode/event-grid.php:136 shortcode/event-table.php:123
+#: shortcode/map.php:392
+msgid "IDs"
+msgstr ""
+
+#: shortcode/count-down.php:76 shortcode/event-carousel.php:74
+#: shortcode/event-grid.php:139 shortcode/event-table.php:126
+#: shortcode/map.php:395
+msgid "Specify post IDs to retrieve"
+msgstr ""
+
+#: shortcode/count-down.php:81 shortcode/event-carousel.php:79
+#: shortcode/event-grid.php:144 shortcode/event-table.php:131
+#: shortcode/map.php:400
+msgid "Count"
+msgstr ""
+
+#: shortcode/count-down.php:84 shortcode/event-carousel.php:82
+#: shortcode/event-grid.php:147 shortcode/event-table.php:134
+#: shortcode/map.php:403
+msgid "Number of posts"
+msgstr ""
+
+#: shortcode/count-down.php:100 shortcode/event-carousel.php:106
+#: shortcode/event-grid.php:171 shortcode/event-table.php:158
+#: shortcode/map.php:419
+msgid "List of tags, separated by a comma"
+msgstr ""
+
+#: shortcode/count-down.php:106 shortcode/event-carousel.php:112
+#: shortcode/event-grid.php:177 shortcode/event-table.php:164
+#: widgets/latest-events.php:140
+msgid "Order"
+msgstr ""
+
+#: shortcode/count-down.php:109 shortcode/event-carousel.php:115
+#: shortcode/event-grid.php:180 shortcode/event-table.php:167
+#: widgets/latest-events.php:142
+msgid "DESC"
+msgstr ""
+
+#: shortcode/count-down.php:110 shortcode/event-carousel.php:116
+#: shortcode/event-grid.php:181 shortcode/event-table.php:168
+#: widgets/latest-events.php:143
+msgid "ASC"
+msgstr ""
+
+#: shortcode/count-down.php:118 shortcode/event-carousel.php:124
+#: shortcode/event-grid.php:189 shortcode/event-table.php:176
+#: widgets/latest-events.php:128
+msgid "Order by"
+msgstr ""
+
+#: shortcode/count-down.php:122 shortcode/event-carousel.php:128
+#: shortcode/event-grid.php:193 shortcode/event-table.php:180
+msgid "ID"
+msgstr ""
+
+#: shortcode/count-down.php:123 shortcode/event-carousel.php:129
+#: shortcode/event-grid.php:194 shortcode/event-table.php:181
+msgid "Author"
+msgstr ""
+
+#: shortcode/count-down.php:124 shortcode/event-carousel.php:130
+#: shortcode/event-grid.php:195 shortcode/event-table.php:182
+#: widgets/latest-events.php:133
+msgid "Title"
+msgstr ""
+
+#: shortcode/count-down.php:126 shortcode/event-carousel.php:132
+#: shortcode/event-grid.php:197 shortcode/event-table.php:184
+msgid "Modified"
+msgstr ""
+
+#: shortcode/count-down.php:127 shortcode/event-carousel.php:133
+#: shortcode/event-grid.php:198 shortcode/event-table.php:185
+msgid "Parent"
+msgstr ""
+
+#: shortcode/count-down.php:128 shortcode/event-carousel.php:134
+#: shortcode/event-grid.php:199 shortcode/event-table.php:186
+msgid "Random"
+msgstr ""
+
+#: shortcode/count-down.php:129
+msgid "Comment count"
+msgstr ""
+
+#: shortcode/count-down.php:130 shortcode/event-carousel.php:135
+#: shortcode/event-grid.php:200 shortcode/event-table.php:187
+msgid "Menu order"
+msgstr ""
+
+#: shortcode/count-down.php:131 shortcode/event-carousel.php:136
+#: shortcode/event-grid.php:201 shortcode/event-table.php:188
+msgid "Meta value"
+msgstr ""
+
+#: shortcode/count-down.php:132 shortcode/event-carousel.php:137
+#: shortcode/event-grid.php:202 shortcode/event-table.php:189
+msgid "Meta value num"
+msgstr ""
+
+#: shortcode/count-down.php:133 shortcode/event-carousel.php:138
+#: shortcode/event-grid.php:203 shortcode/event-table.php:190
+#: widgets/latest-events.php:134
+msgid "Post__in"
+msgstr ""
+
+#: shortcode/count-down.php:138 shortcode/event-carousel.php:144
+#: shortcode/event-grid.php:209 shortcode/event-table.php:196
+#: shortcode/map.php:361
+msgid "Year"
+msgstr ""
+
+#: shortcode/event-carousel.php:61
+msgid "WooEvents - Events Carousel"
+msgstr ""
+
+#: shortcode/event-carousel.php:87 shortcode/event-grid.php:152
+#: shortcode/event-table.php:139
+msgid "Posts per page"
+msgstr ""
+
+#: shortcode/event-carousel.php:90 shortcode/event-grid.php:155
+#: shortcode/event-table.php:142
+msgid "Number items per page"
+msgstr ""
+
+#: shortcode/event-carousel.php:140 shortcode/event-grid.php:205
+#: shortcode/event-table.php:192 shortcode/map.php:357
+msgid "Past"
+msgstr ""
+
+#: shortcode/event-carousel.php:153
+msgid "Autoplay"
+msgstr ""
+
+#: shortcode/event-grid.php:97
+msgid "WooEvents - Grid"
+msgstr ""
+
+#: shortcode/event-grid.php:108 shortcode/event-table.php:111
+msgid "Style"
+msgstr ""
+
+#: shortcode/event-grid.php:112 shortcode/event-table.php:115
+msgid "Style 1"
+msgstr ""
+
+#: shortcode/event-grid.php:113 shortcode/event-table.php:116
+msgid "Style 2"
+msgstr ""
+
+#: shortcode/event-grid.php:121
+msgid "Columns"
+msgstr ""
+
+#: shortcode/event-grid.php:125
+msgid "1 columns"
+msgstr ""
+
+#: shortcode/event-grid.php:126
+msgid "2 columns"
+msgstr ""
+
+#: shortcode/event-grid.php:127
+msgid "3 columns"
+msgstr ""
+
+#: shortcode/event-grid.php:128
+msgid "4 columns"
+msgstr ""
+
+#: shortcode/event-grid.php:129
+msgid "5 columns"
+msgstr ""
+
+#: shortcode/event-grid.php:211
+msgid "Has signed up"
+msgstr ""
+
+#: shortcode/event-table.php:100
+msgid "WooEvents - Table"
+msgstr ""
+
+#: shortcode/map.php:289
+msgid "BUY TICKET - "
+msgstr ""
+
+#: shortcode/map.php:341
+msgid "WooEvents - Maps"
+msgstr ""
+
+#: shortcode/map.php:368
+msgid "Center Map"
+msgstr ""
+
+#: shortcode/map.php:371
+msgid ""
+"Enter Latitude and Longitude (https://ctrlq.org/maps/address/), separated by "
+"a comma or Type Address, Ex:Australia"
+msgstr ""
+
+#: shortcode/map.php:376
+msgid "Zoom"
+msgstr ""
+
+#: shortcode/map.php:384
+msgid "Height"
+msgstr ""
+
+#: shortcode/map.php:387
+msgid "Enter number, ex: 400"
+msgstr ""
+
+#: templates/content-email-event-details.php:8
+msgid "Event Date"
+msgstr ""
+
+#: templates/content-event-meta.php:90 templates/content-shop-meta.php:83
+msgid "View map"
+msgstr ""
+
+#: templates/content-event-schedu.php:27
+msgid "Has Sold"
+msgstr ""
+
+#: templates/content-shop-meta.php:94
+msgid "Phone: "
+msgstr ""
+
+#: widgets/events-search.php:7
+msgid "Events Search "
+msgstr ""
+
+#: widgets/events-search.php:9
+msgid "WE - Events Search "
+msgstr ""
+
+#: widgets/events-search.php:85 widgets/latest-events.php:106
+msgid "Title:"
+msgstr ""
+
+#: widgets/events-search.php:88
+msgid "Included Categories (IDs. Ex: 68, 86)"
+msgstr ""
+
+#: widgets/latest-events.php:7
+msgid "Latest Events"
+msgstr ""
+
+#: widgets/latest-events.php:9
+msgid "WE - Latest Events "
+msgstr ""
+
+#: widgets/latest-events.php:110
+msgid "ID list show:"
+msgstr ""
+
+#: widgets/latest-events.php:114
+msgid "Tags:"
+msgstr ""
+
+#: widgets/latest-events.php:118
+msgid "Categories : (ID or Slug. Ex: 1, 2)"
+msgstr ""
+
+#: widgets/latest-events.php:123
+msgid "Number:"
+msgstr ""
+
+#: widgets/latest-events.php:130
+msgid "Latest"
+msgstr ""

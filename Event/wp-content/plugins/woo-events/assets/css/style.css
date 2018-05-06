@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+#wooevents{ background-color:rgba(253,253,253,.8); padding:0; border-radius:2px}
+#wooevents select, #wooevents input[type=text]{ min-width:250px; height:35px}
+#wooevents label{ margin-right:15px; display: block; margin-top:10px}
+.mce-ico.mce-i-ex_timeline_bt,
+.icon-grid{ background-image:url(../image/listing.png) !important; background-repeat: initial !important; background-size:100%}
+.wpb_element_wrapper .wpb_vc_param_value{ margin-right:15px;}
+.mce-container[aria-label="Unlimited timeline"] .mce-reset{ max-height:600px; overflow-x: scroll}
+.mce-container[aria-label="Unlimited timeline"]{ max-height:600px; overflow:hidden}
+/*-Settings-*/
+#wooevents .subsubsub{font-size:17px; width:100%}
+#wooevents .subsubsub li:last-child span{ display:none;}
+#wooevents form{
+	background-color:#FFFFFF;
+	padding:10px 30px;
+}
+#wooevents form .section-heading{ display:none !important}
+#wooevents form .form-table{ border-top: 2px solid #E8E8E8; border-bottom:2px solid #E8E8E8}
+#wooevents form .form-table label[for="grid_share_button_em"]{ display:block; margin-bottom:15px;}
+#wooevents form .form-table .color-picker{ display:inline-block}
+#wooevents select, #wooevents input[type=text] {
+    min-width: 250px;
+    height: 35px;
+	margin-right: 15px;
+}
+#wooevents .subsubsub{ display:block;}
+#wooevents form .form-table textarea{ width:100%;}
+.pac-container.pac-logo:after{ background-image:none !important; display:none;}
+
+#wooevents .static-text + table tbody tr{ width:33.333333333%; float:left;}
+#location-settings.loading{ opacity:.8; position:relative}
+.wpex-loading{ opacity:0; z-index:-9999;}
+#location-settings.loading .wpex-loading{ opacity:1; z-index:9}
+.wpex-spinner {
+	position:absolute;
+	margin: 100px auto;
+	width: 50px;
+	height: 40px;
+	text-align: center;
+	font-size: 10px;
+	z-index:9;
+	left:50%;
+	margin-left:-25px;
+}
+.wpex-spinner > div {
+	background-color: #444;
+	height: 100%;
+	width: 6px;
+	display: inline-block;
+	
+	-webkit-animation: sk-stretchdelay 1.2s infinite ease-in-out;
+	animation: sk-stretchdelay 1.2s infinite ease-in-out;
+}
+
+.wpex-spinner .rect2 {
+	-webkit-animation-delay: -1.1s;
+	animation-delay: -1.1s;
+}
+
+.wpex-spinner .rect3 {
+	-webkit-animation-delay: -1.0s;
+	animation-delay: -1.0s;
+}
+
+.wpex-spinner .rect4 {
+	-webkit-animation-delay: -0.9s;
+	animation-delay: -0.9s;
+}
+
+.wpex-spinner .rect5 {
+	-webkit-animation-delay: -0.8s;
+	animation-delay: -0.8s;
+}
+
+@-webkit-keyframes sk-stretchdelay {
+	0%, 40%, 100% { -webkit-transform: scaleY(0.4) }  
+	20% { -webkit-transform: scaleY(1.0) }
+}
+
+@keyframes sk-stretchdelay {
+	0%, 40%, 100% { 
+	  transform: scaleY(0.4);
+	  -webkit-transform: scaleY(0.4);
+	}  20% { 
+	  transform: scaleY(1.0);
+	  -webkit-transform: scaleY(1.0);
+	}
+}
+
+.we-user-info span{ margin-right:15px;}
+
+
+

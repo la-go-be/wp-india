@@ -1,0 +1,1 @@
+[29-Sep-2017 06:10:42 UTC] PHP Warning:  Missing argument 2 for wc_maybe_store_user_agent() in /home/anandiceac/public_html/E&C/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 1551

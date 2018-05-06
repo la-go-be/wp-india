@@ -1,0 +1,65 @@
+.page-checkout-login #main.main {
+    height: auto;
+}
+
+@media screen and (max-width: 767px) {
+    .page-checkout-login #main.main {
+        background-position: center 0px !important;
+    }
+}
+
+.page-my-account .top-header {
+    display: none;
+}
+
+.page-my-account #main {
+    height: auto;
+}
+
+.logged-out.singular #content {
+    padding-top: 0px;
+}
+
+#page-wrapper #main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    align-content: stretch;
+    padding-bottom: 0em;
+}
+
+#page-wrapper .entry-the-content {
+    margin-bottom: 0em;
+}
+
+#main .main-content-grid {
+    padding: 25px 0;
+}
+
+.checkout-login {
+    padding-top: 0px;
+}
+
+@media screen and (max-width: 969px) {
+    .checkout-login {
+        padding: 0px 0 0px;
+    }
+}
+
+.checkout-login .custom-logo {
+    height: 58px;
+}
+
+.checkout-login > h2 {
+    margin: 30px 0 25px;
+}
+
+.checkout-login .btn.cancel {
+    margin: 70px auto 0px;    
+}
+
+#site-logo.accent-typo {
+    padding: 60px 0px 20px !important;
+}

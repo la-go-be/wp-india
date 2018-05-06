@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4fb1c57b-301e-475d-a155-6c10db104687" name="localVM-wooc-modal" url="http://wordpress.wixnet.co.kr:81/">
+        <fileTransfer host="192.168.0.182" port="22" rootFolder="/var/www/html/wordpress/wp-content/plugins" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ce8baf58-276b-4031-8c82-75c214ab6baf" name="localVM-10.211.55.6" url="http://wordpress.wixnet.co.kr:81/">
+        <fileTransfer host="10.211.55.6" port="22" rootFolder="/home/www/wordpress/wp-content/plugins" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

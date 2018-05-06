@@ -1,0 +1,33 @@
+#customize-controls li.customize-control-subtitle
+{
+    background: #f6f6f6;
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 20px -20px;
+    padding: 5px 20px;
+    text-transform: uppercase;
+}
+
+#customize-controls .fw-backend-option-type-subtitle{
+    background: #FFF;
+    border-bottom: 1px solid #E8E6E6;
+    border-top: 1px solid #E8E6E6;
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0px -10px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+
+#customize-controls .customize-section-description{
+    border-radius: 3px;
+    border: 0;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 6px rgba(0, 0, 0, 0.12);
+    background-color: #ff5722;
+    padding: 5px 10px;
+    color: #fff;
+}

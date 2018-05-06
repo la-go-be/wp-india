@@ -1,0 +1,8 @@
+.fw-main-row.background-video .fw-container,
+.fw-main-row.background-video .fw-container-fluid {
+	z-index: 1;
+}
+
+section.fw-main-row{
+    padding: 50px 0px;
+}
